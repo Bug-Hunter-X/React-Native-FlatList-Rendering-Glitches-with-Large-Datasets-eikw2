@@ -1,0 +1,1 @@
+This bug occurs when using the FlatList component in React Native to render a large number of items.  The issue is that when scrolling quickly, the component fails to properly update the rendered items, resulting in visual glitches, incorrect data display, or even crashes. This is often worsened when combined with complex item rendering or frequent data updates.
