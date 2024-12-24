@@ -1,0 +1,1 @@
+This repository demonstrates a common performance issue in React Native's FlatList component when handling large datasets. The bug showcases incorrect item rendering and potential crashes during fast scrolling.  The solution provides an optimized approach using techniques like item optimization, windowSize, and key extraction to improve performance and stability.
